@@ -1,0 +1,6 @@
+ul {
+  align-self: baseline;
+    justify-content: space-around;
+    width: 96%;
+    border-radius: 10px 10px 0px 0px;
+  }

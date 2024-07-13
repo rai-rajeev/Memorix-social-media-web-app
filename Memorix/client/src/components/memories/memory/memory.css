@@ -1,0 +1,68 @@
+.single-memory-media {
+    height: 0;
+    padding-top: 56.25%;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+  }
+  
+  .single-memory-border {
+    border: solid;
+  }
+  
+  .single-memory-fullHeightCard {
+    height: 100%;
+  }
+  .video{
+  width: 100%;
+  object-fit: cover;
+  }
+  .single-memory-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 15px;
+    height: 100%;
+    position: relative;
+  }
+  
+  .single-memory-overlay {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: white;
+    z-index: 1;
+  }
+  
+  .single-memory-overlay2 {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: white;
+    z-index: 1;
+  }
+  
+  .single-memory-grid {
+    display: flex;
+  }
+  
+  .single-memory-details {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  
+  .single-memory-title {
+    padding: 0 16px;
+  }
+  
+  .single-memory-cardActions {
+    padding: 0 16px 8px 16px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .single-memory-cardAction {
+    display: block;
+    text-align: initial;
+  }
+  

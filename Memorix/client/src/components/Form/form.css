@@ -1,0 +1,25 @@
+.root .MuiTextField-root {
+    margin: 8px; 
+  }
+  
+  .form-paper {
+    padding: 16px; 
+  }
+  
+  .form-memories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .file-input-memory {
+    width: 97%;
+    margin: 10px 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .button-submit {
+    margin-bottom: 10px;
+  }
+  

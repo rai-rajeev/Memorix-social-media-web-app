@@ -1,0 +1,24 @@
+.home-appBarSearch {
+  border-radius: 4px;
+  margin-bottom:30px;
+  display: flex;
+  padding: 16px;
+}
+
+.home-pagination {
+  border-radius: 4px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 16px;
+}
+
+.grid-Container {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+@media (min-width: 600px) {
+  .grid-Container {
+    flex-direction: row;
+  }
+}
