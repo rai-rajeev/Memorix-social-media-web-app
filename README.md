@@ -18,6 +18,13 @@ Memorix is a social media web application that enables users to post and delete 
 
 **External Api:** Google Oauth
 # Screenshots
+## Home Page
+![image](https://github.com/user-attachments/assets/8dca2c8e-63ae-48bc-b2d0-ad432b92059e)
+## Memory Description Page
+![image](https://github.com/user-attachments/assets/fae45210-097e-4433-8b67-9a8caf207402)
+## Authentication Page
+![image](https://github.com/user-attachments/assets/e2c32d5e-696f-4faa-ada3-d95d10d9c561)
+
 # API Documentation
 https://documenter.getpostman.com/view/25052343/2sA3s1oXRa
 # Environment Variable
